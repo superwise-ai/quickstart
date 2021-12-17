@@ -1,0 +1,24 @@
+image: registry.gitlab.com/superwise.ai/superwise-docker:builder
+
+stages:
+  - pages
+
+
+before_script:
+  - python3 -V
+  - pip install jupyterlab nbconvert
+
+pages:
+  stage: pages
+  tags:
+    - superwise
+  script:
+    - jupyter nbconvert --execute --to html getting_started/diamonds.ipynb
+    - mkdir .public
+    - cp getting_started/diamonds.html .public
+    - mv .public public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
