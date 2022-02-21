@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://superwise.ai">Official</a> •
   <a href="https://docs.superwise.ai/">Docs</a> •
-  <a href="https://github.com/superwise-ai/integration/blob/main/getting_started/custom.ipynb">Getting Started</a> •
+  <a href="https://github.com/superwise-ai/integration/blob/main/getting_started/quickstart.ipynb">Getting Started</a> •
   <a href="https://www.superwise.ai/resources/blog">Blog</a> •
   <a href="https://www.linkedin.com/company/superwise-ai/">LinkedIn</a> •
   <a href="">Slack</a>
@@ -26,7 +26,7 @@
 
 ## How to start
 1. Signin to [Superwise.ai](https://portal.superwise.ai/account/sign-up)  Platform
-2. Follow [Getting Started](./getting_started/custom.ipynb) notebook ( Jupyter\Google Colab )
+2. Follow [Getting Started](./getting_started/quickstart.ipynb) notebook ( Jupyter\Google Colab )
 3. Observe your models :)
 
 ## Integrations
