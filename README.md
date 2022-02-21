@@ -25,7 +25,7 @@
 ```pip install superwise```
 
 ## How to start
-1. Signin to [Superwise.ai](https://portal.superwise.ai/account/sign-up)  Platform
+1. Signup to [Superwise.ai](https://portal.superwise.ai/account/sign-up) Platform
 2. Follow [Getting Started](./getting_started/quickstart.ipynb) notebook ( Jupyter\Google Colab )
 3. Observe your models :)
 
