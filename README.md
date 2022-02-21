@@ -1,5 +1,6 @@
 <div align="center">
-<img src="./docs/images/name_logo.svg" alt="drawing" width="400"/>
+
+![WhiteModeLogo](./docs/images/white_mode_logo.svg#gh-light-mode-only)![DarkModeLogo](./docs/images/dark_mode_logo.svg#gh-dark-mode-only)
 
 **A quickstart guide for integrating Machine Learning workflows with Superwise.ai platform**</br>  
 
