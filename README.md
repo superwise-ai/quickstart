@@ -24,5 +24,14 @@
 ## Installation
 ```pip install superwise```
 
+## How to start
+1. Signin to [Superwise.ai](https://portal.superwise.ai/account/sign-up)  Platform
+2. Follow [Getting Started](./getting_started/custom.ipynb) notebook ( Jupyter\Google Colab )
+3. Observe your models :)
+
+## Integrations
+1. Google Vertex [Guide](./getting_started/vertex.ipynb)
+2. AWS Sagemaker [Guide](./getting_started/sagemaker.ipynb)
+
 ## License
-The use of this quickstart tutorial is completely free and open-source under the [MIT](https://github.com/superwise-ai/integration/blob/itay%40-2147955467-refine_notebooks/LICENSE.md) license.
+The use of this quickstart tutorial is completely free and open-source under the [MIT](LICENSE.md) license.
