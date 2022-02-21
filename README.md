@@ -10,7 +10,7 @@
   <a href="https://github.com/superwise-ai/integration/blob/main/getting_started/quickstart.ipynb">Getting Started</a> •
   <a href="https://www.superwise.ai/resources/blog">Blog</a> •
   <a href="https://www.linkedin.com/company/superwise-ai/">LinkedIn</a> •
-  <a href="">Slack</a>
+  <a href="https://join.slack.com/share/enQtMzEzMjMxMjMzMzc2NS05MjkyZjc5MjE2MjBhZDM4ZTE3NWRiYmMzYzI5M2M4MjVkNWM0M2NjODRhYTUxNDY0YmE3OGI2N2YxMTNhZmNj">Slack</a>
 </p>
 
 ![](docs/images/Superwise_Incidents.png)
