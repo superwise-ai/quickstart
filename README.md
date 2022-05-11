@@ -33,6 +33,7 @@
 ## Integrations
 1. Google Vertex [Guide](./getting_started/vertex.ipynb)
 2. AWS Sagemaker [Guide](./getting_started/sagemaker.ipynb)
+3. MLflow [Guide](integrations/mlflow/how_to_integrate.ipynb)
 
 ## License
 The use of this quickstart tutorial is completely free and open-source under the [MIT](LICENSE.md) license.
